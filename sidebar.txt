@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pma:home|Door43 (pma)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pma|d43-pma repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pma/archive/master.zip|d43-pma.zip]]
+
+**Recent Changes**
+{{changes>ns = pma}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pma|Ethnologue data]]
+
